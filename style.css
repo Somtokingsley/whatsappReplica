@@ -1,0 +1,111 @@
+.clr{
+    clear:both;
+}
+#main{
+	width: 500px;
+	height: 1193px;
+	margin-left: 420px;
+	/*margin-top: 50px;*/
+	/*border: 1px solid gray;*/
+}
+#header{
+	width: 475px;
+	height: 110px;
+	color: #FAF0E6;
+	background-color: #008080;
+	padding-left: 25px; 
+	padding-top: 20px;	
+	font-family: bahnschrift;
+	float:left;
+	font-size: 22px;
+}	
+#nav{
+    /*height: 30px;*/
+    /*padding-bottom:20px;*/
+    padding-right: 0px;
+    /*padding-left: 200px;*/
+    padding-top: 05px;    
+}
+#nav ul{
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-right: 15px;        
+}
+#nav li{ 
+    list-style: none;
+    float:left;
+    padding-right: 46px;
+    padding-left: 25px;
+    width: auto;
+    font-family: bahnschrift;
+    font-size: 16px;
+    /*text-decoration: underline;*/
+} 
+span a {
+	float: right;
+	padding-right: 38px;
+	padding-left: 0px;
+	/*width: auto;*/
+}
+a:link {
+    color: #FAF0E6;
+    /*background-color: transparent;*/
+    text-decoration: none;
+}
+a:visited {
+    color: #FAF0E6;
+    /*background-color: transparent;*/
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    /*text-decoration: underline;*/
+}
+a:active {
+    color: #FAF0E6;
+    background-color: transparent;
+    /*text-decoration: underline;*/
+}
+/*#second{*/
+    /*width: 206px;*/
+    /*height: 300px;*/
+    /*border: 1px solid gray;*/
+    /*margin-top: 94px;*/
+/*}*/
+#second img{
+    float:left;
+    border-radius: 50%;
+    padding-left: 0px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+#second p img{
+    width: 20px;
+    height: 20px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 6px;
+}
+#person{
+    float:left;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-bottom: 0px;
+}
+hr{
+    width: 388px;
+    border: 0px solid #dcdcdc;
+}
+#person span{
+    font-weight: bold;
+    font-family: bahnschrift;
+}
+#time{
+    float: right;
+    padding-bottom: 0px;
+}
